@@ -4,7 +4,7 @@
 
 - 🌍 I'm based in British Columbia, Canada
 - ⚡ I’m interested in learning and implementing projects using new technologies
-- 🚀 Currently working on ServiceBuddy
+- 🚀 Currently working on ServiceBuddy- react application
 - 🤝 I'm open to collaboration
 - 📫 You can contact me at reemaroy73@gmail.com
 
