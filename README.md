@@ -1,10 +1,13 @@
-# 👋 Hi, My name is Reema Susan Roy 
+# Hi there, I am Reema 👋 
 
- Hi there! I'm a Software Engineer with a background in backend development and L2 Application support. Currently, I'm diving into the exciting world of Web Development to further enhance my skills and pursue new career opportunities. I thrive on bringing ideas to life and love implementing innovative functionalities that make a difference.
+I'm a Software Engineer working in Technical support, where I troubleshoot, analyze and help customers have a smooth, effective experience. With my prior experience in software developement, I also enjoy building applications and experimenting with new ideas.
+
+I was offered a fully funded bootcamp last year in Canada 👩‍💻, which helped me upskill my tech stack and work on building applications from scratch.
+
 
 - 🌍 I'm based in British Columbia, Canada
 - ⚡ I’m interested in learning and implementing projects using new technologies
-- 🚀 Currently working on ServiceBuddy- react application
+- 🚀 Currently working on ServiceBuddy- wed application and EventUp- a mobile application.
 - 🤝 I'm open to collaboration
 - 📫 You can contact me at reemaroy73@gmail.com
 
